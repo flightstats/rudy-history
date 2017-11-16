@@ -1,5 +1,5 @@
 {
-  "name": "rudy-history",
+  "name": "@flightstats/rudy-history",
   "version": "1.0.0",
   "description": "Fork of the history package for Rudy",
   "repository": "faceyspacey/history",
